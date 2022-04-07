@@ -26,7 +26,7 @@ class Program
 
         //output
         Console.WriteLine("");
-        Console.Write("Volume of the sphere = " + celsius.ToString("0.00") + " °C");
+        Console.Write("The temperature in Celsius is: " + celsius.ToString("0.00") + " °C");
         Console.ReadKey();
         Console.WriteLine("\nDone.");
     }
