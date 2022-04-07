@@ -12,7 +12,6 @@ class Program
         // This function accepts user input
         double fahrenheit;
         double celsius;
-      
         //input
         Console.WriteLine("This program converts fahrenheit to celsius.");
         Console.WriteLine("");
